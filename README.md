@@ -1,4 +1,4 @@
-# Ex05 BMI Calculator
+# Ex06 BMI Calculator
 ## Date:
 
 ## AIM
